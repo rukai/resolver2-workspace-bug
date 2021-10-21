@@ -1,0 +1,9 @@
+[package]
+name = "app"
+version = "0.1.0"
+authors = ["Rukai <rubickent@gmail.com>"]
+edition = "2021"
+default-run = "app"
+
+[dependencies]
+wgpu = "0.11"
